@@ -1,0 +1,16 @@
+Web Application Framework
+
+Flask
+
+
+Production Web Server (REQUIRED for 24/7 deployment like Heroku/Render)
+
+gunicorn
+
+
+Machine Learning Libraries (Used for model training and loading in app.py)
+
+joblib
+scikit-learn
+NumPy
+pandas
